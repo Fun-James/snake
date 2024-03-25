@@ -1,0 +1,2 @@
+# snake
+ first qt program
